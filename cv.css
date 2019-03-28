@@ -1,0 +1,50 @@
+.header{
+height: 165px;
+background:#455C49;
+margin-top: 10px;
+
+
+}
+
+.heading{
+  height: 50px;
+  background:	#fd7e14  ;
+
+}
+
+.photo{
+height: 120px;
+
+margin-top: 20px;
+margin-left: 20px;
+
+
+
+}
+
+.name{
+    height: 100px;
+
+    margin-top: 30px;
+    margin-left: 20px;
+    
+ 
+ 
+ }
+
+ 
+
+.leftside{
+
+height: auto;
+background: whitesmoke;
+
+}
+
+.rightside{
+background: white;
+height: auto;
+border: 3px solid wheat;
+
+}
+
